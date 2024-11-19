@@ -31,7 +31,8 @@ FAKE CRYPTO SENDER SOFTWARE PC:
 [![Fake Crypto Sender Software PC](https://github.com/user-attachments/assets/d4478cfc-3ee8-4f76-817f-882abef2ee6c)](https://fakecryptosender.com)  
 
 
-PLEASE ALWAYS ENSURE YOU ARE CONTACTING THE OFFICIAL SOURCES. THEIR WEBSITE AND CONTACT ARE BELOW:  
+**PLEASE ALWAYS ENSURE YOU ARE CONTACTING THE OFFICIAL SOURCES. THEIR WEBSITE AND CONTACT ARE BELOW:**  
+
 
 Official Website: https://fakecryptosender.com  
 Official Telegram: https://t.me/fake_crypto_sender
